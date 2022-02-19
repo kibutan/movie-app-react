@@ -19,7 +19,7 @@ body{
 }
 
 .image-container:hover .overlay{
-  opacity: 1.0;
+  opacity: 1;
 }
 
 .overlay{
